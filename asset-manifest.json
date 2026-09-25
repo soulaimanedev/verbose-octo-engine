@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.d94ac826.chunk.css",
-    "main.js": "/static/js/main.c81bd7cd.chunk.js",
-    "main.js.map": "/static/js/main.c81bd7cd.chunk.js.map",
+    "main.css": "/static/css/main.b446b5ca.chunk.css",
+    "main.js": "/static/js/main.58eed671.chunk.js",
+    "main.js.map": "/static/js/main.58eed671.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3e26b02a.js",
     "runtime-main.js.map": "/static/js/runtime-main.3e26b02a.js.map",
     "static/css/2.a63dc323.chunk.css": "/static/css/2.a63dc323.chunk.css",
-    "static/js/2.d428fccc.chunk.js": "/static/js/2.d428fccc.chunk.js",
-    "static/js/2.d428fccc.chunk.js.map": "/static/js/2.d428fccc.chunk.js.map",
+    "static/js/2.d21c047d.chunk.js": "/static/js/2.d21c047d.chunk.js",
+    "static/js/2.d21c047d.chunk.js.map": "/static/js/2.d21c047d.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.a63dc323.chunk.css.map": "/static/css/2.a63dc323.chunk.css.map",
-    "static/css/main.d94ac826.chunk.css.map": "/static/css/main.d94ac826.chunk.css.map",
-    "static/js/2.d428fccc.chunk.js.LICENSE.txt": "/static/js/2.d428fccc.chunk.js.LICENSE.txt",
+    "static/css/main.b446b5ca.chunk.css.map": "/static/css/main.b446b5ca.chunk.css.map",
+    "static/js/2.d21c047d.chunk.js.LICENSE.txt": "/static/js/2.d21c047d.chunk.js.LICENSE.txt",
     "static/media/Database class diagram gestion de pharmacie.34e5c4b5.webp": "/static/media/Database class diagram gestion de pharmacie.34e5c4b5.webp",
     "static/media/background.04fa682f.webp": "/static/media/background.04fa682f.webp",
     "static/media/background.7ac81fac.webp": "/static/media/background.7ac81fac.webp",
@@ -32,6 +32,7 @@
     "static/media/logo.a4ca8dc2.webp": "/static/media/logo.a4ca8dc2.webp",
     "static/media/logo.aa4ee68f.webp": "/static/media/logo.aa4ee68f.webp",
     "static/media/me.d114fc67.jpg": "/static/media/me.d114fc67.jpg",
+    "static/media/n1.36bcf693.webp": "/static/media/n1.36bcf693.webp",
     "static/media/pharmacy sign.af7c3a91.webp": "/static/media/pharmacy sign.af7c3a91.webp",
     "static/media/pic6.f00c8970.webp": "/static/media/pic6.f00c8970.webp",
     "static/media/preview.2ce58f66.webp": "/static/media/preview.2ce58f66.webp",
@@ -45,8 +46,8 @@
   "entrypoints": [
     "static/js/runtime-main.3e26b02a.js",
     "static/css/2.a63dc323.chunk.css",
-    "static/js/2.d428fccc.chunk.js",
-    "static/css/main.d94ac826.chunk.css",
-    "static/js/main.c81bd7cd.chunk.js"
+    "static/js/2.d21c047d.chunk.js",
+    "static/css/main.b446b5ca.chunk.css",
+    "static/js/main.58eed671.chunk.js"
   ]
 }
